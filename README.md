@@ -1,17 +1,13 @@
-GeeksForGeeks_article_extractor
+GeeksForGeeks website extractor
 ===============================
 
-
-
-Extract all articles filed under each and every tag in www.geeksforgeeks.org
+Extracts the website partially.I am working on this.
 
 
 Disclaimer - The script will work only for python 2.7.x and not for python 3.x
 
-
-Specify your path by editing in the python script GFG_article_extractor.py 
-
-
+Steps:
+Specify your path by editing in the python script valarmorghulis.py 
 Run the script and .................... DONE!!!! 
 
 
